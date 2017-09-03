@@ -1,0 +1,17 @@
+/*
+Initialize SDL 
+
+Load up your images 
+
+Begin loop 
+
+Get the keyboard input 
+
+Move the player 
+
+Move the enemies 
+
+Check for collisions 
+
+End loop
+*/
